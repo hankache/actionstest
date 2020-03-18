@@ -1,0 +1,28 @@
+= Raku Guide
+:description: A general introduction to Raku
+:Email: naoum@hankache.com
+:Revision: 1.0
+:icons: font
+:source-highlighter: pygments
+//:pygments-style: manni
+:source-language: perl6
+:pygments-linenums-mode: table
+:toc: left
+:doctype: book
+:lang: en
+
+
+This document is intended to give you a quick overview of the Raku programming language. +
+For those new to Raku, it should get you up and running.
+
+Some sections of this document refer to other (more complete and accurate) parts of the https://docs.raku.org[Raku documentation].
+You should read them if you need more information on a specific subject.
+
+Throughout this document, you will find examples for most discussed topics.
+To better understand them, take the time to reproduce all examples.
+
+.License
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+To view a copy of this license, visit
+
+* https://creativecommons.org/licenses/by-sa/4.0/
